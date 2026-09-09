@@ -1,0 +1,17 @@
+{
+    "name": "implmbp197/php-weather-app",
+    "require": {
+        "guzzlehttp/guzzle": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Implmbp197\\PhpWeatherApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hiratakaiki-impl",
+            "email": "hirata.kaiki@impl.co.jp"
+        }
+    ]
+}
